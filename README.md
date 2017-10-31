@@ -15,6 +15,6 @@ Shiled test module
 - Cảm biến ánh sáng quang trở
 - OLED SSD1306 
 - Cảm biến mưa
-- Oled
+- Cảm biến áp suất
 - Neo 6M
 
