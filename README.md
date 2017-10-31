@@ -1,4 +1,4 @@
-# IoTMaker_Hackathon
+﻿# IoTMaker_Hackathon
 
 Shiled test module
 
@@ -13,4 +13,7 @@ Shiled test module
 - Cảm biến Max44009
 - Cảm biến ánh sáng quang trở
 - OLED SSD1306 
+- Cảm biến mưa
+- Oled
+- Neo 6M
 
