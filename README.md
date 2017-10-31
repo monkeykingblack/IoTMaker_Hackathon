@@ -6,6 +6,7 @@ Shiled test module
 - Cảm biến khí MQ2, MQ135
 - Cảm ứng điện dung 4 nút TTP224
 - Cảm ứng điện dung 16 nút TTP229
+- Cảm biến chạm
 - Cảm biến nhịp tim và oxy trong máu
 - Cảm biến ánh sáng
 - Cảm biến chuyển động
